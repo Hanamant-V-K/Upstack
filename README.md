@@ -1,1 +1,1 @@
-# Upstack
+This is a demo application which is created for patients to register for tests, testers will be able to view these tests and collect your health report and update the lab result, doctors will provide the consulation and government will be able to view the zone wise data which will overlook all the tests.
